@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+  font-size: 15px;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  color: #cbd5e1;
+}
